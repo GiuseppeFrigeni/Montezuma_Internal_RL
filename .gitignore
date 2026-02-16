@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training artifacts
+logs/
+checkpoints/
+
+# Local course documents (paper + presentation)
+RL_Project_1713561.pdf
+2512.20605v2.pdf
