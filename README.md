@@ -96,6 +96,7 @@ Notes:
 - training samples are built from death-free trajectory segments,
 - trajectory filtering by top score is supported (`--limit_trajs`),
 - NOOP subsampling is enabled by default (can be disabled via CLI).
+- dataset download (Montezuma Revenge split): [https://omnomnom.vision.rwth-aachen.de/data/atari_v1_release/revenge.tar.gz](https://omnomnom.vision.rwth-aachen.de/data/atari_v1_release/revenge.tar.gz)
 
 ## Setup
 
@@ -183,6 +184,7 @@ Useful flags:
 ## Reference Paper
 
 - Kobayashi, S., Schimpf, Y., Schlegel, M., Steger, A., Wolczyk, M., von Oswald, J., Scherrer, N., Maile, K., Lajoie, G., Richards, B. A., Saurous, R. A., Manyika, J., Agüera y Arcas, B., Meulemans, A., & Sacramento, J. (2025). *Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning*. arXiv:2512.20605 [cs.LG]. [https://arxiv.org/abs/2512.20605](https://arxiv.org/abs/2512.20605)
+- Kurin, V., Nowozin, S., Hofmann, K., Beyer, L., & Leibe, B. (2017). *The Atari Grand Challenge Dataset*. arXiv:1705.10998 [cs.AI]. [https://arxiv.org/abs/1705.10998](https://arxiv.org/abs/1705.10998)
 
 ## Reproducibility Notes
 
